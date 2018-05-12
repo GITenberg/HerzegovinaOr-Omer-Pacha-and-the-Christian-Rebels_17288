@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7278
     wikipedia: http://en.wikipedia.org/wiki/George_Arbuthnot_%28politician%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17288#HerzegovinaOr-Omer-Pacha-and-the-Christian-Rebels
 gutenberg_issued: '2005-12-12'
 gutenberg_type: Text
 identifiers:
