@@ -1,0 +1,29 @@
+_repo: HerzegovinaOr-Omer-Pacha-and-the-Christian-Rebels_17288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arbuthnot, George
+    birthdate: 1836
+    deathdate: 1912
+    gutenberg_agent_id: '7278'
+    url: http://www.gutenberg.org/2009/agents/7278
+    wikipedia: http://en.wikipedia.org/wiki/George_Arbuthnot_%28politician%29
+description: ''
+gutenberg_issued: '2005-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17288'
+  lccn: '03031665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Serbia'
+- !lcsh 'Hercegovina (Bosnia and Hercegovina) -- History'
+title: Herzegovina; Or, Omer Pacha and the Christian Rebels
+url: http://www.gutenberg.org/ebooks/17288
